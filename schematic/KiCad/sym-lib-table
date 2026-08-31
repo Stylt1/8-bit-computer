@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "8-bit ICs") (type "KiCad") (uri "/Users/jakub/8-bit computer/8-bit ICs.kicad_sym") (options "") (descr ""))
+)
